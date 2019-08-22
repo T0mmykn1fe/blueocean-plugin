@@ -619,7 +619,8 @@
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
             <artifactId>sse-gateway</artifactId>
-            <version>1.20-20190813.033926-2</version>
+            <version>1.20-SNAPSHOT</version>
+            <!--version>1.20-20190813.033926-2</version-->
         </dependency>
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
