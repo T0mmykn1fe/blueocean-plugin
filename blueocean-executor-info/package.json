@@ -28,7 +28,7 @@
     "mobx": "2.6.0",
     "mobx-react": "3.5.7",
     "react": "15.4.2",
-    "react-dom": "15.4.2",
+    "react-dom": "15.6.2",
     "react-router": "2.3.0"
   },
   "jenkinscd": {
